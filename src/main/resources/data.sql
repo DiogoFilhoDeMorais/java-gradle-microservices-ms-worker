@@ -1,1 +1,4 @@
--- INSERT INTO tb_worker (name, daily_income) VALUES ("Brian", 123.45), ("Carol", 147.65), ("James", 231.21);
+INSERT INTO tb_worker 
+    (document, name, phone, isWhatsapp, isTelegram, email, description, address, complement, city, state, cep, facebook, instagram, linkedin) 
+VALUES 
+    (1111111111,"Brian", ),
